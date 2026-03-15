@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arham771790" alt="arham771790" /></a> </p>
 
-- 🔭 I’m currently working on [CodeIU](codeiu.in)
+- 🔭 I’m currently working on [CodeIU](https://codeiu.in)
 
 - 🌱 I’m currently learning **ExpressJS,DSA,System Design**
 
